@@ -71,6 +71,7 @@ class misskey_note{
 			$misskey_servers=isset($misskey_servers)?$misskey_servers:
 			[
 			
+				["mk.shrimpia.network","https://mk.shrimpia.network/"],
 				["misskey.io","https://misskey.io"],
 				["misskey.design","https://misskey.design"],
 				["nijimiss.moe","https://nijimiss.moe"],
